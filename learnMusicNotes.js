@@ -25,8 +25,7 @@
  *      Wikipedia Category:Musical score components
  *      https://commons.wikimedia.org/wiki/Category:Musical_score_components
  * 
- * License
- * MIT Open Source except the SVG images that have their own license. 
+ * License: MIT Open Source except the SVG images that have their own license. 
  *
  * For more details see the project page in GitHub at:
  *   https://github.com/joaocarvalhoopen/Learn_music_notes___Javascript_WebApp
