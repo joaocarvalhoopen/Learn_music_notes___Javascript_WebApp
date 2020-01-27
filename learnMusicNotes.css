@@ -1,0 +1,24 @@
+.staff {
+    position: absolute;
+    display: block;
+    left: 0px;
+    top: 10px;
+    
+    /*
+    width: 192;
+    height: 25;
+    // Doesn't work on chrome!
+    background: url(./img/Staff192.svg) no-repeat top left;
+    background-size: contain;
+    */
+}
+
+.button {
+    width: 40px;
+    height: 60px;
+    margin: 5px;
+}
+
+.resultText {
+    color: blue;
+}
